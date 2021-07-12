@@ -3,10 +3,4 @@ AA
 ASD
 
 ASDds
-as
-AAA
-ASDDSA
-asd
-
-sadaasd
-ASDDS
+asAAA
