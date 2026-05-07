@@ -6,7 +6,3 @@ ASDds
 as
 AAA
 ASDDSA
-asd
-
-sadaasd
-ASDDS
