@@ -7,6 +7,3 @@ as
 AAA
 ASDDSA
 asd
-
-sadaasd
-ASDDS
