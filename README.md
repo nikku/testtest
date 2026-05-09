@@ -5,8 +5,6 @@ ASD
 ASDds
 as
 AAA
-ASDDSA
-asd
-
-sadaasd
 ASDDS
+ASDDS
+OTHER
